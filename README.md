@@ -1,6 +1,6 @@
 # blue_nile_store
 
-## you can download `ERP system` apps 
+## you can download `ERP System` apps 
 ### such as
 
 <img src="https://github.com/AymanPhysics/OMEGA/blob/master/OMEGA/Icons/Omega%20Logo%204.ico" alt="OMEGA_icon" title="OMEGA_icon">
